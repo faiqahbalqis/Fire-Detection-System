@@ -5,9 +5,9 @@
 
 CTBot myBot;
 
-String ssid = "yesaya";
-String pass = "faiqahbalqis";
-String token = "5472570344:AAGVGt1t5mV3-litGeZ46X4n_3uqaB2l9y4";
+String ssid = "*****";
+String pass = "*****";
+String token = "**********";
 const int id = 407617129;
 
 int buzzer = D0;
